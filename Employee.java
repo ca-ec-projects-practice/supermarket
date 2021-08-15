@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 
 Hello i am in master
 
+=======
+>>>>>>> d4a0552 (updated)
 i am updating the Employee Data
 
 
